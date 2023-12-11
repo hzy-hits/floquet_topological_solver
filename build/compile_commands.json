@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/root/programing/testing/matrix_solver/solver/build",
+  "command": "/usr/bin/g++ -I/root/programing/testing/matrix_solver/solver/include/cpp -g -fopenmp -o CMakeFiles/Mat_Solver.dir/src/main.cpp.o -c /root/programing/testing/matrix_solver/solver/src/main.cpp",
+  "file": "/root/programing/testing/matrix_solver/solver/src/main.cpp"
+},
+{
+  "directory": "/root/programing/testing/matrix_solver/solver/build",
+  "command": "/usr/bin/g++ -I/root/programing/testing/matrix_solver/solver/include/cpp -g -fopenmp -o CMakeFiles/Mat_Solver.dir/src/matSolver.cpp.o -c /root/programing/testing/matrix_solver/solver/src/matSolver.cpp",
+  "file": "/root/programing/testing/matrix_solver/solver/src/matSolver.cpp"
+}
+]
