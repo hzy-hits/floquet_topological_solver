@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /root/programing/testing/matrix_solver/solver
-BuildDirectory: /root/programing/testing/matrix_solver/solver/build
+SourceDirectory: /root/programing/testing/mat_solver/solver
+BuildDirectory: /root/programing/testing/mat_solver/solver/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/root/programing/testing/matrix_solver/solver"
+ConfigureCommand: "/usr/bin/cmake" "/root/programing/testing/mat_solver/solver"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 

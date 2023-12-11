@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/bin/cmake --regenerate-during-build -S/root/programing/testing/matrix_solver/solver -B/root/programing/testing/matrix_solver/solver/build
+  command = /usr/bin/cmake --regenerate-during-build -S/root/programing/testing/mat_solver/solver -B/root/programing/testing/mat_solver/solver/build
   description = Re-running CMake...
   generator = 1
 

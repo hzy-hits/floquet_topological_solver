@@ -1,5 +1,5 @@
 {
-    "cmake.sourceDirectory": "/root/programing/testing/matrix_solver/solver",
+    "cmake.sourceDirectory": "/root/programing/testing/mat_solver/solver",
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "random": "cpp",
@@ -62,6 +62,8 @@
         "thread": "cpp",
         "cinttypes": "cpp",
         "typeinfo": "cpp",
-        "__nullptr": "cpp"
+        "__nullptr": "cpp",
+        "kroneckerproduct": "cpp",
+        "dense": "cpp"
     }
 }

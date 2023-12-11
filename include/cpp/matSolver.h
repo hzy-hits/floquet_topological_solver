@@ -6,6 +6,10 @@
 #include <cmath>
 #include <algorithm>
 #include <iostream>
+#include <eigen3/unsupported/Eigen/MatrixFunctions>
+#include <complex>
+
+
 class Mat_Solver
 {
 public:
