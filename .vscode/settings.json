@@ -1,5 +1,5 @@
 {
-    "cmake.sourceDirectory": "/root/programing/testing/mat_solver/solver",
+    "cmake.sourceDirectory": "/users/zhuan160/my_test/floquet/floquet_topological_solver",
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "random": "cpp",
