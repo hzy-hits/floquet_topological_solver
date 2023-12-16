@@ -11,7 +11,9 @@ if(OpenMP_CXX_FOUND)
 endif()
 
 # Find Eigen
-find_package(Eigen3 3.3 REQUIRED)
+set(Eigen3_DIR "/gpfs/runtime/opt/eigen/3.4.0/share/eigen3/cmake")
+find_package(Eigen3 3.4 REQUIRED)
+
 
 # Include directories
 include_directories(include/cpp)

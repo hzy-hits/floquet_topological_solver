@@ -1,7 +1,4 @@
 # ninja log v5
-1	1134	1702691542255710813	CMakeFiles/Mat_Solver.dir/src/main.cpp.o	f396c976308bbe39
-1	8932	1702691550045707958	CMakeFiles/Mat_Solver.dir/src/matSolver.cpp.o	26b72e6b1378fa2e
-8932	9397	1702691550525707782	Mat_Solver	dc3a2aefb69af0b6
-0	934	1702691719905646364	CMakeFiles/Mat_Solver.dir/src/main.cpp.o	a633cb148a0a6c13
-0	9364	1702691749615635547	CMakeFiles/Mat_Solver.dir/src/matSolver.cpp.o	9c3b63d8f96b66dd
-9364	9903	1702691750165635347	Mat_Solver	f819938195289ad8
+2	2548	1702692453436371344	CMakeFiles/Mat_Solver.dir/src/main.cpp.o	1b854e48d31a8d14
+2	12336	1702692463224518226	CMakeFiles/Mat_Solver.dir/src/matSolver.cpp.o	748c6c28820b7d05
+12336	12421	1702692463311003947	Mat_Solver	d36ac9fa810bfa83

@@ -9,14 +9,14 @@ int main(int, char **)
     std::cout << "Hello, from Mat_Solver!\n";
 
     Mat_Solver solver;
-    std::string filename = "../data/data_test.txt";
+    std::string filename = "../data/data.txt";
     std::ofstream file;
     file.open(filename);
 
     std::vector<double> result;
-    for (float phi1 = -1.1; phi1 <= 1.1; phi1 += 2.1)
+    for (float phi1 = -1.1; phi1 <= 1.1; phi1 += 0.1)
     {
-        for (float rho1 = -1.1; rho1 <= 1.1; rho1 += 2.1)
+        for (float rho1 = -1.1; rho1 <= 1.1; rho1 += 0.1)
 
         {
             auto start = std::chrono::high_resolution_clock::now();
